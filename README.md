@@ -48,6 +48,10 @@
 
 ⚡**Projects**⚡
 
+-  **Furniture Sales Prediction**: [Click](https://github.com/Utkarshmishra2k2/Furniture-Sales-Prediction)
+
+-  **Introduction to Keras**: [Click](https://github.com/Utkarshmishra2k2/Keras)
+  
 -  **Crop Analysis**: [Click](https://github.com/Utkarshmishra2k2/Crop-Analysis)
 
 -  **Book Recommendor**: [Click](https://github.com/Utkarshmishra2k2/Book-Recommender)

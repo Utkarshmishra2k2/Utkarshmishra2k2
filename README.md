@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Statistics, Data Science and Machine Learning**
 
-- 📫😎😎😎 Connect Me 😎😎😎 👀 [Portfolio](https://utkarshmishra2k2.github.io/UtkarshMishra.github.io/))
+- 📫😎😎😎 Connect Me 😎😎😎 👀 [Portfolio](https://utkarshmishra2k2.github.io/UtkarshMishra.github.io/)
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/utkarsh-mishra-1aa340227)
 

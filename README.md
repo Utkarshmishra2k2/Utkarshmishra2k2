@@ -3,14 +3,17 @@
 
 
  
-- Hello, folks! 👋I'm **Utkarsh**
+- Hello, folks! 👋I'm **Utkarsh Mishra**
 
 ✨ **About Me in 30 secs**✨
 
+- SPECIALIZING IN THE ART OF TURNING DATA INTO ACTIONABLE KNOWLEDGE, PROVIDING VALUABLE INSIGHTS TO GUIDE DECISION-MAKING IN A DATA-DRIVEN WORLD.
 
 - 👀  I am proficient in statistical analysis, and machine learning techniques, and have experience in a variety of programming languages including Python, R, Jamovi, PyGWalker, and SQL.
 
 - 💬 Ask me about **Statistics, Data Science and Machine Learning**
+
+- 📫😎😎😎 Connect Me 😎😎😎 👀 [Portfolio](https://utkarshmishra2k2.github.io/UtkarshMishra.github.io/))
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/utkarsh-mishra-1aa340227)
 
@@ -47,6 +50,8 @@
 
 
 ⚡**Projects**⚡
+
+-  **Advanced Statistics in Python**: [Click](https://github.com/Utkarshmishra2k2/Advance-Statistics-in-Python)
 
 -  **Furniture Sales Prediction**: [Click](https://github.com/Utkarshmishra2k2/Furniture-Sales-Prediction)
 

@@ -26,9 +26,9 @@
 
 💡**TECHNICAL EXPERTISE**💡:
 
--  **Programming Language**: Python, R, Java.
+-  **Programming Language**: Python, R, PySpark .
 -  **Statistical Analysis Tool**: Jamovi.
--  **Databases**: MySQL, PySpark, MongoDB. 
+-  **Databases**: SQL . 
 -  **Data Visualization**: PyGWalker, Excel.
 -  **Machine Learning Algorithms**: Linear Regression.
 -  **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Scipy Stats, Plotly Express.

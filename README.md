@@ -49,17 +49,21 @@
 
 ⚡**Projects**⚡
 
-- **Study App**: [Click](https://github.com/Utkarshmishra2k2/StudyApp)
+- [**Study App**:](https://github.com/Utkarshmishra2k2/StudyApp)
+  
    Streamlit employs diverse tools for transcript extraction, enhancement, translation, and audio conversion, such as transformers, googletrans, and gtts. Its core functions involve extracting YouTube  transcripts, summarizing, translating, and converting them to audio. This versatile toolset enhances multimedia content accessibility and comprehension, especially for educational and language learning purposes, with Streamlit's intuitive interface facilitating seamless navigation. 
 
-- **Factor Analysis & PCA on Airline Data**:[Click](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data)
+- [**Factor Analysis & PCA on Airline Data**:](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data)
+  
    The project initiates with factor analysis to unveil latent factors, followed by preprocessing steps like standardization and principal component analysis (PCA) for determining retained components. It explores various factor rotation methods and interprets factors based on loadings. Logistic regression predicts a binary target variable, checking for multicollinearity, and K Means clustering identifies data patterns. Leveraging libraries including pandas, numpy, matplotlib, seaborn, factor_analyzer, and scikit-learn, the code furnishes a thorough analysis pipeline for comprehending and modeling intricate datasets.
   
-- **Sleeping Disorder**:[Click](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization/tree/main)
+- [**Sleeping Disorder**:](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization/tree/main)
+  
  This aims to understand the relationships between sleep, health, and lifestyle variables by analyzing factors such as sleep quantity, quality, stress levels, BMI, blood pressure, heart rate, daily steps, and sleep disorders. Using descriptive statistics and correlation analysis, the study seeks to identify patterns and trends to offer insights for improving physical activity, reducing stress, and enhancing overall well-being.
 
-- **Economic Pulse**:[**Economic Pulse**](https://github.com/Utkarshmishra2k2/Economic-Pulse)
--  World Economic Pulse dashboard offers a set of tools and resources that provide an overview of the economic performance and key indicators of a specific region, country, or the global economy. These dashboards are designed to help policymakers, businesses, investors, and the general public monitor and understand economic trends and data.
+- [**Economic Pulse**:](https://github.com/Utkarshmishra2k2/Economic-Pulse)
+  
+  World Economic Pulse dashboard offers a set of tools and resources that provide an overview of the economic performance and key indicators of a specific region, country, or the global economy. These dashboards are designed to help policymakers, businesses, investors, and the general public monitor and understand economic trends and data.
 
 
                                                                                                                     

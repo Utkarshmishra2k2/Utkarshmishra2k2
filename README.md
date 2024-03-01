@@ -58,24 +58,10 @@
 - **Sleeping Disorder**:[Click](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization/tree/main)
  This aims to understand the relationships between sleep, health, and lifestyle variables by analyzing factors such as sleep quantity, quality, stress levels, BMI, blood pressure, heart rate, daily steps, and sleep disorders. Using descriptive statistics and correlation analysis, the study seeks to identify patterns and trends to offer insights for improving physical activity, reducing stress, and enhancing overall well-being.
 
-- **Economic Pulse**:[Click](https://github.com/Utkarshmishra2k2/Economic-Pulse)
+- **Economic Pulse**:[**Economic Pulse**](https://github.com/Utkarshmishra2k2/Economic-Pulse)
 -  World Economic Pulse dashboard offers a set of tools and resources that provide an overview of the economic performance and key indicators of a specific region, country, or the global economy. These dashboards are designed to help policymakers, businesses, investors, and the general public monitor and understand economic trends and data.
-     •https://github.com/Utkarshmishra2k2/Economic-Pulse
 
 
--  **Advanced Statistics in Python**: [Click](https://github.com/Utkarshmishra2k2/Advance-Statistics-in-Python)
-
--  **Furniture Sales Prediction**: [Click](https://github.com/Utkarshmishra2k2/Furniture-Sales-Prediction)
-
--  **Introduction to Keras**: [Click](https://github.com/Utkarshmishra2k2/Keras)
-  
--  **Crop Analysis**: [Click](https://github.com/Utkarshmishra2k2/Crop-Analysis)
-
--  **Book Recommendor**: [Click](https://github.com/Utkarshmishra2k2/Book-Recommender)
-
--  **Advance Statistics in Python**: [Click](https://github.com/Utkarshmishra2k2/Advance-Statistics-in-Python)
-
--  **Regression on Housing Price**: [Click](https://github.com/Utkarshmishra2k2/Regression-On-House-Pricing-)
                                                                                                                     
  
 <p>&nbsp;</p>

@@ -59,7 +59,7 @@
   
 - [**Sleeping Disorder**:](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization/tree/main)
   
- This aims to understand the relationships between sleep, health, and lifestyle variables by analyzing factors such as sleep quantity, quality, stress levels, BMI, blood pressure, heart rate, daily steps, and sleep disorders. Using descriptive statistics and correlation analysis, the study seeks to identify patterns and trends to offer insights for improving physical activity, reducing stress, and enhancing overall well-being.
+  This aims to understand the relationships between sleep, health, and lifestyle variables by analyzing factors such as sleep quantity, quality, stress levels, BMI, blood pressure, heart rate, daily steps, and sleep disorders. Using descriptive statistics and correlation analysis, the study seeks to identify patterns and trends to offer insights for improving physical activity, reducing stress, and enhancing overall well-being.
 
 - [**Economic Pulse**:](https://github.com/Utkarshmishra2k2/Economic-Pulse)
   

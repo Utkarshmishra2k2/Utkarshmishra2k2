@@ -49,6 +49,10 @@
 
 ⚡**Projects**⚡
 
+- [**Uber Estimated Time of Arrival (ETA) Prediction**:](https://github.com/Utkarshmishra2k2/Uber-Estimated-Time-of-Arrival-ETA-Prediction)
+  
+  Developed an ETA prediction app using TensorFlow and Streamlit, providing accurate travel time estimates based on real-time traffic data. Implemented a TensorFlow model for ETA predictions   and built an interactive Streamlit app to handle user inputs and deliver real-time results. Additionally, integrated real-time traffic data to enhance prediction accuracy. Utilized    technologies such as TensorFlow, Streamlit, Python, and Traffic Data APIs throughout the project.
+  
 - [**Study App**:](https://github.com/Utkarshmishra2k2/StudyApp)
   
    Streamlit employs diverse tools for transcript extraction, enhancement, translation, and audio conversion, such as transformers, googletrans, and gtts. Its core functions involve extracting YouTube  transcripts, summarizing, translating, and converting them to audio. This versatile toolset enhances multimedia content accessibility and comprehension, especially for educational and language learning purposes, with Streamlit's intuitive interface facilitating seamless navigation. 

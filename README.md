@@ -1,29 +1,30 @@
 cat <<EOF > README.md
 <h1 align="center">Hi there! 👋 I'm Utkarsh Mishra</h1>
-<h3 align="center">Data Scientist | Specializing in Statistics, Machine Learning, and Data-Driven Decision Making</h3>
+<h3 align="center">Statistician | Data Scientist | Specializing in Statistics, Machine Learning, and Data-Driven Decision Making</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a passionate Data Scientist dedicated to transforming raw data into meaningful insights that drive strategic decision-making. With expertise in statistical analysis, machine learning, and data visualization, I thrive on tackling complex problems and delivering actionable solutions.
+I am a passionate Statistician dedicated to transforming raw data into meaningful insights that drive strategic decision-making. With expertise in statistical analysis, machine learning, and data visualization, I thrive on tackling complex problems and delivering actionable solutions.
 
-- **Core Expertise**: Proficient in Python, R, Jamovi, PyGWalker, and SQL, with a strong foundation in statistical modeling and machine learning.
+- **Core Expertise**: Proficient in Python, R, Jamovi, Streamlit, Machine Learning, Time Series, Excel, PyGWalker, and SQL, with a strong foundation in statistical modeling and machine learning.
 - **My Mission**: To leverage data science techniques to uncover hidden patterns, optimize processes, and contribute to impactful business decisions.
 
 - 📫 **Portfolio**: [Explore My Work](https://utkarshmishra2k2.github.io/UtkarshMishra.github.io/)
-- 💬 **Let's Connect**: I'm always open to discussing **Statistics, Data Science, and Machine Learning**. Feel free to reach out!
+- 💬 **Let's Connect**: I'm always open to discussing **Statistics, Data Science, and Machine Learning, Mathematics, Data Analysis**. Feel free to reach out!
 
 ---
 
 ### 💼 Technical Expertise
 
-- **Programming Languages**: Python, R, PySpark
+- **Machine Learning**: Regression, Classification, Clustering, Dimension Reduction,Feature Engineering
+- **Statistics**: Descriptive Statistics, Inferential Statistics, Predictive Statistics,Non-parametric Statistics, Multivariate Statistics, Testing of Hypothesis, Time Series, Sampling
+- **Programming Languages**: Python, R
+- **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy, Plotly Express
 - **Statistical Tools**: Jamovi
 - **Databases**: SQL
 - **Data Visualization**: PyGWalker, Excel
-- **Machine Learning**: Linear Regression, Classification, Clustering
-- **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy, Plotly Express
 - **Platforms & Tools**: Google Colab, Jupyter Notebook
 
 ---
@@ -49,6 +50,3 @@ I am a passionate Data Scientist dedicated to transforming raw data into meaning
 - **[Sleeping Disorder Analysis](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization/tree/main)**: Conducted a comprehensive analysis of sleep patterns and health metrics to explore relationships and improve well-being.
 
 - **[Economic Pulse Dashboard](https://github.com/Utkarshmishra2k2/Economic-Pulse)**: Designed an interactive dashboard to monitor and analyze key economic indicators, offering valuable insights for policymakers and investors.
-
----
-EOF

@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 <h1 align="center">Hi there! 👋 I'm Utkarsh Mishra</h1>
 <h3 align="center">Statistician | Data Scientist | Specializing in Statistics, Machine Learning, and Data-Driven Decision Making</h3>
 

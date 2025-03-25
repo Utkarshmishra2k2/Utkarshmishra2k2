@@ -65,9 +65,9 @@ I am a passionate **Data Scientist** with expertise in **Machine Learning, Gener
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-mishra-1aa340227/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Utkarshmishra2k2)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/utkarshmishra2k2)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/utkarshmishra2k2)  
-
+<p align="left">
+<a href="https://www.linkedin.com/in/utkarsh-mishra-1aa340227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/utkarshmishra2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/utkarshmishra2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+</p>
 ---

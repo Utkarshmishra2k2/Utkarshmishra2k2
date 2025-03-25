@@ -1,51 +1,73 @@
-<h1 align="center">Hi there! 👋 I'm Utkarsh Mishra</h1>
-<h3 align="center">Statistician | Data Scientist | Specializing in Statistics, Machine Learning, and Data-Driven Decision Making</h3>
+# Hi there! 👋 I'm Utkarsh Mishra  
+
+### Aspiring Data Scientist | Machine Learning & Generative AI Enthusiast  
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I am a passionate Statistician dedicated to transforming raw data into meaningful insights that drive strategic decision-making. With expertise in statistical analysis, machine learning, and data visualization, I thrive on tackling complex problems and delivering actionable solutions.
+I am a passionate **Data Scientist** with expertise in **Machine Learning, Generative AI, and Statistical Modeling**. My focus is on leveraging **AI-driven insights** to solve complex business problems, optimize decision-making, and build scalable **ML solutions** in dynamic, data-driven environments.  
 
-- **Core Expertise**: Proficient in Python, R, Jamovi, Streamlit, Machine Learning, Time Series, Excel, PyGWalker, and SQL, with a strong foundation in statistical modeling and machine learning.
-- **My Mission**: To leverage data science techniques to uncover hidden patterns, optimize processes, and contribute to impactful business decisions.
+- **Core Expertise**: Python, SQL, Power BI, R, Jamovi, Streamlit, TensorFlow, Transformer Models, LangChain, A/B Testing, and Statistical Analysis.  
+- **My Mission**: To harness AI, machine learning, and statistical techniques to **uncover patterns, enhance automation, and drive data-centric decision-making**.  
 
-- 📫 **Portfolio**: [Explore My Work](https://utkarshmishra2k2.github.io/UtkarshMishra.github.io/)
-- 💬 **Let's Connect**: I'm always open to discussing **Statistics, Data Science, and Machine Learning, Mathematics, Data Analysis**. Feel free to reach out!
-
----
-
-### 💼 Technical Expertise
-
-- **Machine Learning**: Regression, Classification, Clustering, Dimension Reduction,Feature Engineering
-- **Statistics**: Descriptive Statistics, Inferential Statistics, Predictive Statistics,Non-parametric Statistics, Multivariate Statistics, Testing of Hypothesis, Time Series, Sampling
-- **Programming Languages**: Python, R
-- **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy, Plotly Express
-- **Statistical Tools**: Jamovi
-- **Databases**: SQL
-- **Data Visualization**: PyGWalker, Excel
-- **Platforms & Tools**: Google Colab, Jupyter Notebook
+📫 **Portfolio**: [Explore My Work](https://utkarshmishra2k2.github.io/UtkarshMishra.github.io/)  
+💬 **Let’s Connect**: Open to discussions on **Data Science, Machine Learning, Generative AI, and Statistics**.  
 
 ---
 
-### 🌐 Connect with Me
+## 💼 Technical Expertise  
 
-<p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-mishra-1aa340227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/utkarshmishra2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/utkarshmishra2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+- **Generative AI**: Prompt Engineering, Fine-tuning, LangChain, Transformer Models  
+- **Machine Learning**: Regression, Classification, Clustering, Feature Engineering, SVM, Decision Trees, Random Forests, Boosting  
+- **Statistics**: Hypothesis Testing, Regression, Classification, Statistical Testing, Distribution Theory  
+- **Programming**: Python, R, SQL  
+- **Frameworks & Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Streamlit  
+- **Data Visualization**: Power BI, Excel, PyGWalker  
+- **Databases & Platforms**: SQL, Google Colab, Jupyter Notebook  
 
 ---
 
-### ⚡ Featured Projects
+## 🌟 Work Experience  
 
-- **[Uber ETA Prediction](https://github.com/Utkarshmishra2k2/Uber-Estimated-Time-of-Arrival-ETA-Prediction)**: Developed a machine learning application using TensorFlow and Streamlit to accurately predict travel times based on real-time traffic data.
+### Data Analyst | Dynamite Technology (March 2024 – April 2024)  
+- Built a **content-based recommendation system** using cosine similarity, enhancing product recommendations and user experience.  
+- Applied **Python, Pandas, and Scikit-learn** to analyze customer behavior and improve AI model performance.  
 
-- **[Study App](https://github.com/Utkarshmishra2k2/StudyApp)**: Created a versatile tool using Streamlit for transcript extraction, enhancement, translation, and audio conversion, enhancing accessibility to multimedia content.
+---
 
-- **[Factor Analysis & PCA on Airline Data](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data)**: Implemented factor analysis and PCA to analyze and model airline data, providing insights into underlying patterns and correlations.
+## ⚡ Featured Projects  
 
-- **[Sleeping Disorder Analysis](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization/tree/main)**: Conducted a comprehensive analysis of sleep patterns and health metrics to explore relationships and improve well-being.
+- **[AI-Powered Data Analytics Platform](https://github.com/Utkarshmishra2k2/Datacynte-AI_Powered_Data_Analytics_Platform/tree/main)**  
+  - Built an interactive **data analytics platform** using **Gemini LLM** for real-time insights and visualization.  
+  - Integrated **customized transformer models** for domain-specific analysis.  
+  - Used **Streamlit & DataStax** for seamless session management and data retrieval.  
 
-- **[Economic Pulse Dashboard](https://github.com/Utkarshmishra2k2/Economic-Pulse)**: Designed an interactive dashboard to monitor and analyze key economic indicators, offering valuable insights for policymakers and investors.
+- **[Uber ETA Prediction](https://github.com/Utkarshmishra2k2/Uber-Estimated-Time-of-Arrival-ETA-Prediction)**  
+  - Developed an **AI-powered ETA prediction app** using **TensorFlow & Streamlit**, optimizing real-time travel estimates.  
+
+- **[Factor Analysis & PCA on Airline Data](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data)**  
+  - Conducted advanced **factor analysis and PCA** to extract meaningful insights from airline industry data.  
+
+- **[Sleeping Disorder Analysis](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization/tree/main)**  
+  - Analyzed sleep disorder patterns using **data visualization & statistical modeling** to explore health insights.  
+
+---
+
+## 🎓 Certifications  
+
+- **Generative AI with Large Language Models** - Coursera  
+- **Machine Learning Bootcamp** - Microsoft Learn Student Ambassador | Google Developer  
+- **Python & SQL** - HackerRank  
+- **Data Analytics using R & Excel** - Ramniranjan Jhunjhunwala College  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-mishra-1aa340227/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Utkarshmishra2k2)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/utkarshmishra2k2)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/utkarshmishra2k2)  
+
+---

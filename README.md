@@ -81,7 +81,7 @@ Mar 2024 – Apr 2024
 
 - Generative AI with Large Language Models – DeepLearning.AI (Coursera)
 - Python & SQL – HackerRank
-- Data Analytics (R & Excel) – College
+- Data Analytics (R & Excel) – Ramniranjan Jhunjhunwala College
 
 Actively studying: **distributed fine-tuning (DeepSpeed, Ray)**, **long-context models**, **AI evaluation frameworks**, **ethical alignment**
 

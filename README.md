@@ -30,8 +30,8 @@ Python · R · SQL · Linux / Shell scripting
 
 **Core Machine Learning**  
 Supervised Learning (Regression, Classification, Logistic Regression, SVM, k-NN)  
-Unsupervised Learning (Clustering: K-Means, DBSCAN, Hierarchical · Dimensionality Reduction: PCA, Factor Analysis, t-SNE, UMAP)  
-Tree-based & Ensemble Methods (Decision Trees, Random Forests, Gradient Boosting, XGBoost, LightGBM, CatBoost)  
+Unsupervised Learning (Clustering: K-Means, DBSCAN, Hierarchical · Dimensionality Reduction: PCA, Factor Analysis, t-SNE)  
+Tree-based & Ensemble Methods (Decision Trees, Random Forests, Gradient Boosting)  
 Feature Engineering · Outlier Detection · Regularization (L1/L2, Elastic Net)  
 Hyperparameter Optimization (Grid Search, Random Search, Bayesian Optimization – Optuna / Hyperopt)
 
@@ -41,7 +41,7 @@ Retrieval-Augmented Generation (RAG) — dense + sparse retrieval, reranking
 Fine-tuning (Full fine-tuning · PEFT: LoRA / QLoRA / Adapter)  
 Frameworks: LangChain · LangGraph · LlamaIndex  
 Models: Transformer architectures · open-source LLMs (Llama, Mistral, Gemma, Phi-3, etc.)  
-Local / On-prem inference: Ollama · LM Studio  
+Local / On-prem inference: Ollama  
 Vector Databases & Embeddings: Chroma · FAISS · Pinecone · Weaviate · Sentence-Transformers · Voyage / OpenAI / Cohere embeddings  
 Advanced: Hallucination detection & mitigation · RAG evaluation (RAGAS, DeepEval, TruLens) · Citation grounding
 
@@ -49,7 +49,6 @@ Advanced: Hallucination detection & mitigation · RAG evaluation (RAGAS, DeepEva
 Hypothesis Testing · A/B & Multivariate Testing  
 Sampling Techniques · Distribution Theory · Power Analysis  
 Regression Diagnostics · ANOVA · Non-parametric Methods  
-Causal Inference basics (DoWhy, causalml)
 
 **Data Processing & Visualization**  
 Pandas · Polars · NumPy  

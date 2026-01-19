@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Utkarsh Mishra
 
-### AI Engineer | Data Scientist | LLM & Generative AI Specialist
+### AI Engineer • LLM Specialist • Generative AI & Agentic Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-mishra-1aa340227)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarshmishra2k2)
@@ -9,87 +9,93 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-I'm an **AI Engineer** and **Data Scientist** passionate about building scalable, production-grade intelligent systems that deliver measurable business value.  
+**AI Engineer** passionate about shipping **production-grade LLM-powered systems** that solve real problems at scale.
 
-I specialize in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, **fine-tuning**, and **MLOps**, with a strong foundation in end-to-end ML pipelines — from raw data to low-latency inference.
+I build end-to-end **Generative AI** & **Agentic AI** solutions — from **RAG pipelines**, **fine-tuning (LoRA/QLoRA)**, **prompt engineering**, and **hallucination mitigation** to **low-latency inference**, **evaluation (RAGAS, DeepEval)**, and **MLOps**.
 
-My work has consistently produced **quantifiable impact**:
-- Reduced data preprocessing time by **45%**
-- Achieved **86.9%** accuracy in production-grade classification models
-- Cut query-to-insight latency by **60%** in natural language analytics platforms
+Key wins so far:
+- Reduced query-to-insight latency by **60%** in NL analytics platform
+- Achieved **86.9%** accuracy in healthcare risk prediction model
+- Cut data preprocessing time by **45%** → faster ML iteration cycles
+- Deployed secure, citation-grounded RAG chatbot serving hundreds of daily users
 
-I approach every problem with curiosity, rigor, and a growth mindset — continuously learning the latest in **multimodal AI**, **reasoning agents**, **efficient inference**, and **responsible AI**.
+Always experimenting with the latest: **multimodal models**, **reasoning agents**, **efficient fine-tuning**, **vector databases**, **long-context handling**, and **responsible AI**.
 
-📫 **Portfolio:** [utkarshmishra2k2.github.io](https://utkarshmishra2k2.github.io/UtkarshMishra.github.io/)
+Open to full-time roles in **LLM Engineering**, **Generative AI**, **Agentic Systems**, or **MLOps** — let's build something impactful.
 
----
-
-## 💼 Technical Expertise
-
-**Generative AI & LLMs**  
-Agentic AI · RAG · Prompt Engineering · Fine-tuning · LoRA/QLoRA · LangChain · LangGraph · LlamaIndex · Hallucination Mitigation · Evaluation (RAGAS, DeepEval) · Multimodal Models
-
-**Machine Learning & MLOps**  
-PyTorch · TensorFlow · Scikit-learn · Transformers (Hugging Face) · Model Compression · Quantization · ONNX · Triton Inference Server · MLflow · BentoML · Docker · Kubernetes · CI/CD
-
-**Data Science & Analytics**  
-Python · SQL · Pandas · Polars · NumPy · Feature Engineering · Hyperparameter Optimization (Optuna, Ray Tune) · A/B Testing · Causal Inference · Time Series
-
-**Statistics**  
-Hypothesis Testing · Bayesian Methods · Experimental Design · Dimensionality Reduction (PCA, t-SNE, UMAP) · Factor Analysis
-
-**Engineering & Deployment**  
-FastAPI · REST/GraphQL APIs · JWT · OAuth 2.0 · Streamlit · Gradio · Cloud (AWS, GCP, Azure) · Monitoring (Prometheus, Grafana)
+📫 **Portfolio** → [utkarshmishra2k2.github.io](https://utkarshmishra2k2.github.io/UtkarshMishra.github.io/)
 
 ---
 
-## 🌟 Selected Projects
+## 🛠️ Technical Stack (2026 focus)
 
-| Project | Tech Stack | Business/Technical Impact | Links |
-|-------|------------|----------------------------|-------|
-| **Datacynte – AI-Powered Natural Language Analytics** | Gemini, LangChain, Streamlit, DataStax Astra | Dynamic code generation from NL queries · 60% faster insight delivery · production-ready for finance & healthcare | [GitHub](https://github.com/Utkarshmishra2k2/Datacynte-AI_Powered_Data_Analytics_Platform) · [Demo](https://utkarshmishra2k2.github.io/Datacynte-AI_Powered_Data_Analytics_Platform/) |
-| **Focus on Vision – Eye Health Risk Prediction** | TensorFlow, Logistic Regression, Neural Nets, Power BI | 86.9% accuracy on 1,400+ records · actionable public health insights | [GitHub](https://github.com/Utkarshmishra2k2/Focus-on-Vision) · [Demo](https://utkarshmishra2k2.github.io/Focus-on-Vision/) |
-| **Uber ETA Prediction Engine** | TensorFlow, Geospatial features, Streamlit | 25% reduction in ETA error · real-time inference demo | [GitHub](https://github.com/Utkarshmishra2k2/Uber-Estimated-Time-of-Arrival-ETA-Prediction) · [Demo](https://utkarshmishra2k2.github.io/Uber-ETA-Prediction/) |
-| **Airline Passenger Satisfaction – Factor & PCA Analysis** | Python, R, Scikit-learn | 30% better interpretability of key drivers · advanced dimensionality reduction | [GitHub](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data) · [Demo](https://utkarshmishra2k2.github.io/Factor-Analysis-PCA-on-Airline-Data/) |
-| **Sleeping Disorder Pattern Analysis** | Pandas, Matplotlib, Statistical Modeling | Clear visualization of risk factors · statistically significant insights | [GitHub](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization) · [Demo](https://utkarshmishra2k2.github.io/Sleeping-Disorder-Analysis/) |
+**LLMs & Generative AI**  
+Transformers • RAG • Agentic AI • Prompt Engineering • Fine-tuning (LoRA / QLoRA / PEFT) • LangChain • LangGraph • LlamaIndex • Hallucination Mitigation • RAG Evaluation (RAGAS, DeepEval, TruLens) • Multimodal AI basics
+
+**ML / DL Core**  
+PyTorch • TensorFlow • Hugging Face Transformers • Scikit-learn • Feature Engineering • Hyperparameter Optimization (Optuna, Ray Tune) • Model Compression / Quantization • ONNX • Triton Inference
+
+**MLOps & Deployment**  
+FastAPI • Docker • Kubernetes • MLflow • BentoML • CI/CD (GitHub Actions) • Monitoring (Prometheus, Grafana) • Cloud (AWS SageMaker, GCP Vertex AI, Azure ML)
+
+**Data & Backend**  
+Python • SQL • Pandas / Polars • Vector DBs (Chroma, Pinecone, Weaviate, FAISS) • REST/GraphQL APIs • JWT • OAuth 2.0 • Streamlit / Gradio demos
+
+**Analytics & Viz**  
+Power BI • Matplotlib • Seaborn • PyGWalker • Statistical Modeling • A/B Testing • Hypothesis Testing • Dimensionality Reduction (PCA, UMAP)
 
 ---
 
-## 💼 Professional Experience
+## 🔥 Highlight Projects
+
+| Project | Core Tech | Measurable Impact | Links |
+|-------|------------|---------------------|-------|
+| **Datacynte** – Natural Language Data Analytics | Gemini • LangChain • Streamlit • Astra DB | 60% faster insight delivery • dynamic Python code gen from NL • production-tuned for finance/healthcare | [Repo](https://github.com/Utkarshmishra2k2/Datacynte-AI_Powered_Data_Analytics_Platform) • [Demo](https://utkarshmishra2k2.github.io/Datacynte-AI_Powered_Data_Analytics_Platform/) |
+| **Focus on Vision** – Eye Health Risk Classifier | TensorFlow • Logistic Regression → NN • Power BI | 86.9% accuracy on 1,400+ samples • actionable public health model | [Repo](https://github.com/Utkarshmishra2k2/Focus-on-Vision) • [Demo](https://utkarshmishra2k2.github.io/Focus-on-Vision/) |
+| **Uber ETA Predictor** | TensorFlow • Geospatial features • Streamlit | ~25% reduction in ETA error • real-time demo deployment | [Repo](https://github.com/Utkarshmishra2k2/Uber-Estimated-Time-of-Arrival-ETA-Prediction) • [Demo](https://utkarshmishra2k2.github.io/Uber-ETA-Prediction/) |
+| **Airline Insights** – Factor Analysis + PCA | Python • R • Scikit-learn | 30% improved interpretability of satisfaction drivers | [Repo](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data) • [Demo](https://utkarshmishra2k2.github.io/Factor-Analysis-PCA-on-Airline-Data/) |
+| **Sleep Disorder Patterns** | Pandas • Matplotlib • Stats Modeling | Statistically grounded risk visualizations & insights | [Repo](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization) • [Demo](https://utkarshmishra2k2.github.io/Sleeping-Disorder-Analysis/) |
+
+More experiments (RAG, agents, fine-tuning) coming soon — stay tuned.
+
+---
+
+## 💼 Experience
 
 **AI / LLM Engineer**  
-IFSCA, Government of India  
+IFSCA – Government of India  
 Jul 2025 – Present
 
-- Architected **IFSCA IntelliChat** — production RAG system with hybrid retrieval, cross-encoder reranking, citation enforcement, confidence scoring
-- Built **IFSCA IntelliDesk** — agentic AI service desk with intent classification, deterministic flows, RBAC + JWT
-- Designed **DeskFlow** — fault-tolerant internal workflow platform with real-time notifications (WebSockets)
-- Developed rate-limit-aware **Mass Communication Engine** (OAuth 2.0, observability-ready)
-- Led agentic AI experimentation and trained domain-adapted **Small Language Models**
+- Architected **IFSCA IntelliChat** — production RAG system (hybrid retrieval + cross-encoder reranking + citation enforcement + confidence scoring)
+- Built **IntelliDesk** — agentic AI service desk (intent classification, deterministic flows, RBAC + JWT auth)
+- Designed **DeskFlow** — fault-tolerant workflow platform with real-time WebSocket notifications
+- Engineered rate-limited **Mass Communication Engine** (OAuth 2.0 + observability)
+- Led agentic AI PoCs + trained domain-specific **Small Language Models**
 
 **Data Analyst**  
 Dynamite Technology  
 Mar 2024 – Apr 2024
 
-- Created content-based recommendation engine (TF-IDF + cosine) → **0.78 precision@10**
+- Built content-based recommender (TF-IDF + cosine) → **0.78 precision@10**
 - Optimized Pandas pipelines → **45% faster** preprocessing
 
 ---
 
-## 🎓 Education & Certifications
+## 📜 Certifications & Learning
 
-- **Generative AI with Large Language Models** – DeepLearning.AI & AWS (Coursera)
-- **Machine Learning Specialization** – Stanford University (Coursera)
-- **Advanced Machine Learning** – HSE University (Coursera)
-- **MLOps Fundamentals** – Google Cloud
-- **Python & SQL** – HackerRank Certified
-- **Data Analytics (R & Excel)** – Ramniranjan Jhunjhunwala College
+- Generative AI with Large Language Models – DeepLearning.AI & AWS (Coursera)
+- Machine Learning Specialization – Stanford (Coursera)
+- MLOps Fundamentals – Google Cloud
+- Python & SQL – HackerRank
+- Data Analytics (R & Excel) – College
+
+Actively studying: **distributed fine-tuning (DeepSpeed, Ray)**, **long-context models**, **AI evaluation frameworks**, **ethical alignment**
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Pulse
 
 ![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utkarshmishra2k2&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshmishra2k2&layout=compact&theme=radical)
@@ -97,7 +103,7 @@ Mar 2024 – Apr 2024
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect & Collaborate
 
 <p align="left">
   <a href="https://www.linkedin.com/in/utkarsh-mishra-1aa340227" target="blank">
@@ -114,6 +120,6 @@ Mar 2024 – Apr 2024
   </a>
 </p>
 
-💬 Open to full-time roles, collaborations, and interesting problems in **LLMs · Agentic AI · RAG · MLOps**
+💬 **Open to**: LLM / GenAI / Agentic AI roles, interesting collaborations, technical discussions
 
-Happy to chat — feel free to reach out!
+Feel free to reach out — excited to connect!

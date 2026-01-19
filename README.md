@@ -19,7 +19,7 @@ Always experimenting with the latest: **multimodal models**, **reasoning agents*
 
 Open to full-time roles in **LLM Engineering**, **Generative AI**, **Agentic Systems**, or **MLOps** — let's build something impactful.
 
-📫 **Portfolio** → [utkarshmishra2k2.github.io](https://utkarshmishra2k2.github.io/UtkarshMishra.github.io/)
+📫 **Portfolio** → [Link](https://um1412.github.io/)
 
 ---
 

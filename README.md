@@ -85,25 +85,4 @@ Mar 2024 – Apr 2024
 
 Actively studying: **distributed fine-tuning (DeepSpeed, Ray)**, **long-context models**, **AI evaluation frameworks**, **ethical alignment**
 
----
-
-## 🌐 Connect & Collaborate
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/utkarsh-mishra-1aa340227" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Utkarshmishra2k2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/utkarshmishra2k2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/utkarshmishra2k2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
-
-💬 **Open to**: LLM / GenAI / Agentic AI roles, interesting collaborations, technical discussions
-
 Feel free to reach out — excited to connect!

@@ -23,22 +23,54 @@ Open to full-time roles in **LLM Engineering**, **Generative AI**, **Agentic Sys
 
 ---
 
-## 🛠️ Technical Stack (2026 focus)
+## 🛠️ Technical Stack
 
-**LLMs & Generative AI**  
-Transformers • RAG • Agentic AI • Prompt Engineering • Fine-tuning (LoRA / QLoRA / PEFT) • LangChain • LangGraph • LlamaIndex • Hallucination Mitigation • RAG Evaluation (RAGAS, DeepEval, TruLens) • Multimodal AI basics
+**Languages & OS**  
+Python · R · SQL · Linux / Shell scripting
 
-**ML / DL Core**  
-TensorFlow • Hugging Face Transformers • Scikit-learn • Feature Engineering • Hyperparameter Optimization (Optuna, Ray Tune) • Model Compression / Quantization • ONNX • Triton Inference
+**Core Machine Learning**  
+Supervised Learning (Regression, Classification, Logistic Regression, SVM, k-NN)  
+Unsupervised Learning (Clustering: K-Means, DBSCAN, Hierarchical · Dimensionality Reduction: PCA, Factor Analysis, t-SNE, UMAP)  
+Tree-based & Ensemble Methods (Decision Trees, Random Forests, Gradient Boosting, XGBoost, LightGBM, CatBoost)  
+Feature Engineering · Outlier Detection · Regularization (L1/L2, Elastic Net)  
+Hyperparameter Optimization (Grid Search, Random Search, Bayesian Optimization – Optuna / Hyperopt)
 
-**MLOps & Deployment**  
-FastAPI • Docker • Kubernetes • MLflow • BentoML • CI/CD (GitHub Actions) • Monitoring (Prometheus, Grafana) • Cloud (AWS SageMaker, GCP Vertex AI, Azure ML)
+**Generative AI & Large Language Models**  
+Prompt Engineering · Chain-of-Thought · Few-shot / Zero-shot  
+Retrieval-Augmented Generation (RAG) — dense + sparse retrieval, reranking  
+Fine-tuning (Full fine-tuning · PEFT: LoRA / QLoRA / Adapter)  
+Frameworks: LangChain · LangGraph · LlamaIndex  
+Models: Transformer architectures · open-source LLMs (Llama, Mistral, Gemma, Phi-3, etc.)  
+Local / On-prem inference: Ollama · LM Studio  
+Vector Databases & Embeddings: Chroma · FAISS · Pinecone · Weaviate · Sentence-Transformers · Voyage / OpenAI / Cohere embeddings  
+Advanced: Hallucination detection & mitigation · RAG evaluation (RAGAS, DeepEval, TruLens) · Citation grounding
 
-**Data & Backend**  
-Python • SQL • Pandas / Polars • Vector DBs (Chroma, Pinecone, Weaviate, FAISS) • REST/GraphQL APIs • JWT • OAuth 2.0 • Streamlit / Gradio demos
+**Statistics & Experimental Design**  
+Hypothesis Testing · A/B & Multivariate Testing  
+Sampling Techniques · Distribution Theory · Power Analysis  
+Regression Diagnostics · ANOVA · Non-parametric Methods  
+Causal Inference basics (DoWhy, causalml)
 
-**Analytics & Viz**  
-Power BI • Matplotlib • Seaborn • PyGWalker • Statistical Modeling • A/B Testing • Hypothesis Testing • Dimensionality Reduction (PCA, UMAP)
+**Data Processing & Visualization**  
+Pandas · Polars · NumPy  
+Data Visualization: Matplotlib · Seaborn · Plotly · PyGWalker  
+Business Intelligence: Power BI · Looker Studio (basics)
+
+**Deep Learning & Frameworks**  
+TensorFlow / Keras · PyTorch (preferred for research & recent work)  
+Hugging Face Transformers & ecosystem
+
+**Backend, APIs & Deployment**  
+FastAPI (high-performance REST & async APIs)  
+Authentication & Security: JWT · OAuth 2.0  
+Python web services · API documentation (Swagger / Redoc)  
+Containerization: Docker basics  
+Streamlit / Gradio for rapid ML / LLM demos
+
+**Currently Exploring / Hands-on (2026 direction)**  
+Agentic AI workflows · Multimodal models · Model compression & quantization  
+Inference optimization (vLLM, TensorRT-LLM, ONNX Runtime)  
+MLOps lite (MLflow tracking, BentoML serving, GitHub Actions CI/CD)
 
 ---
 

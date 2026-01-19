@@ -15,12 +15,6 @@
 
 I build end-to-end **Generative AI** & **Agentic AI** solutions — from **RAG pipelines**, **fine-tuning (LoRA/QLoRA)**, **prompt engineering**, and **hallucination mitigation** to **low-latency inference**, **evaluation (RAGAS, DeepEval)**, and **MLOps**.
 
-Key wins so far:
-- Reduced query-to-insight latency by **60%** in NL analytics platform
-- Achieved **86.9%** accuracy in healthcare risk prediction model
-- Cut data preprocessing time by **45%** → faster ML iteration cycles
-- Deployed secure, citation-grounded RAG chatbot serving hundreds of daily users
-
 Always experimenting with the latest: **multimodal models**, **reasoning agents**, **efficient fine-tuning**, **vector databases**, **long-context handling**, and **responsible AI**.
 
 Open to full-time roles in **LLM Engineering**, **Generative AI**, **Agentic Systems**, or **MLOps** — let's build something impactful.
@@ -35,7 +29,7 @@ Open to full-time roles in **LLM Engineering**, **Generative AI**, **Agentic Sys
 Transformers • RAG • Agentic AI • Prompt Engineering • Fine-tuning (LoRA / QLoRA / PEFT) • LangChain • LangGraph • LlamaIndex • Hallucination Mitigation • RAG Evaluation (RAGAS, DeepEval, TruLens) • Multimodal AI basics
 
 **ML / DL Core**  
-PyTorch • TensorFlow • Hugging Face Transformers • Scikit-learn • Feature Engineering • Hyperparameter Optimization (Optuna, Ray Tune) • Model Compression / Quantization • ONNX • Triton Inference
+TensorFlow • Hugging Face Transformers • Scikit-learn • Feature Engineering • Hyperparameter Optimization (Optuna, Ray Tune) • Model Compression / Quantization • ONNX • Triton Inference
 
 **MLOps & Deployment**  
 FastAPI • Docker • Kubernetes • MLflow • BentoML • CI/CD (GitHub Actions) • Monitoring (Prometheus, Grafana) • Cloud (AWS SageMaker, GCP Vertex AI, Azure ML)
@@ -52,11 +46,11 @@ Power BI • Matplotlib • Seaborn • PyGWalker • Statistical Modeling • A
 
 | Project | Core Tech | Measurable Impact | Links |
 |-------|------------|---------------------|-------|
-| **Datacynte** – Natural Language Data Analytics | Gemini • LangChain • Streamlit • Astra DB | 60% faster insight delivery • dynamic Python code gen from NL • production-tuned for finance/healthcare | [Repo](https://github.com/Utkarshmishra2k2/Datacynte-AI_Powered_Data_Analytics_Platform) • [Demo](https://utkarshmishra2k2.github.io/Datacynte-AI_Powered_Data_Analytics_Platform/) |
-| **Focus on Vision** – Eye Health Risk Classifier | TensorFlow • Logistic Regression → NN • Power BI | 86.9% accuracy on 1,400+ samples • actionable public health model | [Repo](https://github.com/Utkarshmishra2k2/Focus-on-Vision) • [Demo](https://utkarshmishra2k2.github.io/Focus-on-Vision/) |
-| **Uber ETA Predictor** | TensorFlow • Geospatial features • Streamlit | ~25% reduction in ETA error • real-time demo deployment | [Repo](https://github.com/Utkarshmishra2k2/Uber-Estimated-Time-of-Arrival-ETA-Prediction) • [Demo](https://utkarshmishra2k2.github.io/Uber-ETA-Prediction/) |
-| **Airline Insights** – Factor Analysis + PCA | Python • R • Scikit-learn | 30% improved interpretability of satisfaction drivers | [Repo](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data) • [Demo](https://utkarshmishra2k2.github.io/Factor-Analysis-PCA-on-Airline-Data/) |
-| **Sleep Disorder Patterns** | Pandas • Matplotlib • Stats Modeling | Statistically grounded risk visualizations & insights | [Repo](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization) • [Demo](https://utkarshmishra2k2.github.io/Sleeping-Disorder-Analysis/) |
+| **Datacynte** – Natural Language Data Analytics | Gemini • LangChain • Streamlit • Astra DB | 60% faster insight delivery • dynamic Python code gen from NL • production-tuned for finance/healthcare | [Repo](https://github.com/Utkarshmishra2k2/Datacynte-AI_Powered_Data_Analytics_Platform) |
+| **Focus on Vision** – Eye Health Risk Classifier | TensorFlow • Logistic Regression → NN • Power BI | 86.9% accuracy on 1,400+ samples • actionable public health model | [Repo](https://github.com/Utkarshmishra2k2/Focus-on-Vision) |
+| **Uber ETA Predictor** | TensorFlow • Geospatial features • Streamlit | ~25% reduction in ETA error • real-time demo deployment | [Repo](https://github.com/Utkarshmishra2k2/Uber-Estimated-Time-of-Arrival-ETA-Prediction) |
+| **Airline Insights** – Factor Analysis + PCA | Python • R • Scikit-learn | 30% improved interpretability of satisfaction drivers | [Repo](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data) |
+| **Sleep Disorder Patterns** | Pandas • Matplotlib • Stats Modeling | Statistically grounded risk visualizations & insights | [Repo](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization) |
 
 More experiments (RAG, agents, fine-tuning) coming soon — stay tuned.
 
@@ -85,21 +79,11 @@ Mar 2024 – Apr 2024
 
 ## 📜 Certifications & Learning
 
-- Generative AI with Large Language Models – DeepLearning.AI & AWS (Coursera)
-- Machine Learning Specialization – Stanford (Coursera)
-- MLOps Fundamentals – Google Cloud
+- Generative AI with Large Language Models – DeepLearning.AI (Coursera)
 - Python & SQL – HackerRank
 - Data Analytics (R & Excel) – College
 
 Actively studying: **distributed fine-tuning (DeepSpeed, Ray)**, **long-context models**, **AI evaluation frameworks**, **ethical alignment**
-
----
-
-## 📊 GitHub Pulse
-
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utkarshmishra2k2&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshmishra2k2&layout=compact&theme=radical)
-![Visitor Count](https://profile-counter.glitch.me/Utkarshmishra2k2/count.svg)
 
 ---
 

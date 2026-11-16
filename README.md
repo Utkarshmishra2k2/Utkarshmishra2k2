@@ -97,7 +97,7 @@ A training-free, interpretable method that applies Benford's Law to DCT frequenc
 
 ## 🏅 Certifications
 
-- - SQL Basics Badge (Standard): [Deep-ML](https://www.deep-ml.com/credentials/DMLBADGE-SQLBASICS-mwhpgvww), Nov 2026 · Credential ID: DMLBADGE-SQLBASICS-mwhpgvww
+- SQL Basics Badge (Standard): [Deep-ML](https://www.deep-ml.com/credentials/DMLBADGE-SQLBASICS-mwhpgvww), Nov 2026 · Credential ID: DMLBADGE-SQLBASICS-mwhpgvww
 - Claude 101: Anthropic (2026)
 - Generative AI with Large Language Models: DeepLearning.AI
 - Python (5⭐): HackerRank

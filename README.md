@@ -1,119 +1,120 @@
-# Hi there! 👋 I'm Utkarsh Mishra
+<div align="center">
 
-### AI Engineer • LLM Specialist • Generative AI & Agentic Systems
+# Hi, I'm Utkarsh Mishra 👋
+
+### AI Engineer · Generative AI & Agentic Systems · RAG · LLM Guardrails & Evaluation
+
+*I build LLM and agentic AI systems that stay reliable in high-stakes environments, and I use my statistics background (M.Sc., University of Mumbai) to measure whether they actually work.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-mishra-1aa340227)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarshmishra2k2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://um1412.github.io/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/utkarshmishra2k2)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/utkarshmishra2k2)
+</div>
 
 ---
 
 ## 👨‍💻 About
 
-**AI Engineer** passionate about shipping **production-grade LLM-powered systems** that solve real problems at scale.
+I'm an **AI Engineer** focused on **production-grade LLM applications**: retrieval-augmented generation (RAG), tool-using AI agents, guardrails against hallucination and unsafe actions, and secure backend services. I came to AI through **statistics**, so I treat evaluation, uncertainty and reproducibility as first-class engineering concerns, not afterthoughts.
 
-I build end-to-end **Generative AI** & **Agentic AI** solutions — from **RAG pipelines**, **fine-tuning (LoRA/QLoRA)**, **prompt engineering**, and **hallucination mitigation** to **low-latency inference**, **evaluation (RAGAS, DeepEval)**, and **MLOps**.
+- 🏢 **Now:** AI Engineer at **Tata Consultancy Services** (Jun 2026 – present). Building agentic AI and anomaly-detection solutions for enterprise engineering platforms (LangGraph, RAG, FastAPI, scikit-learn).
+- 🏛️ **Before:** AI / LLM Intern at **IFSCA, Government of India** (Jul 2025 – Jan 2026). Built regulatory-intelligence RAG and an agentic enterprise service desk in a secure, offline-first environment.
+- 📄 **Research:** Published *Synthetic Media Detection Using Benford's Law*, a training-free, interpretable approach to deepfake forensics ([read the paper](YOUR_PUBLICATION_LINK)).
+- 🎓 **Education:** M.Sc. Statistics (CGPA 8.90) and B.Sc. Statistics (CGPA 9.40), University of Mumbai.
 
-Always experimenting with the latest: **multimodal models**, **reasoning agents**, **efficient fine-tuning**, **vector databases**, **long-context handling**, and **responsible AI**.
-
-Open to full-time roles in **LLM Engineering**, **Generative AI**, **Agentic Systems**, or **MLOps** — let's build something impactful.
-
-📫 **Portfolio** → [Link](https://um1412.github.io/)
-
----
-
-## 🛠️ Technical Stack
-
-**Languages & OS**  
-Python · R · SQL · Linux / Shell scripting
-
-**Core Machine Learning**  
-Supervised Learning (Regression, Classification, Logistic Regression, SVM, k-NN)  
-Unsupervised Learning (Clustering: K-Means, DBSCAN, Hierarchical · Dimensionality Reduction: PCA, Factor Analysis, t-SNE)  
-Tree-based & Ensemble Methods (Decision Trees, Random Forests, Gradient Boosting)  
-Feature Engineering · Outlier Detection · Regularization (L1/L2, Elastic Net)  
-Hyperparameter Optimization (Grid Search, Random Search, Bayesian Optimization – Optuna / Hyperopt)
-
-**Generative AI & Large Language Models**  
-Prompt Engineering · Chain-of-Thought · Few-shot / Zero-shot  
-Retrieval-Augmented Generation (RAG) — dense + sparse retrieval, reranking  
-Fine-tuning (Full fine-tuning · PEFT: LoRA / QLoRA / Adapter)  
-Frameworks: LangChain · LangGraph · LlamaIndex  
-Models: Transformer architectures · open-source LLMs (Llama, Mistral, Gemma, Phi-3, etc.)  
-Local / On-prem inference: Ollama  
-Vector Databases & Embeddings: Chroma · FAISS · Pinecone · Weaviate · Sentence-Transformers · Voyage / OpenAI / Cohere embeddings  
-Advanced: Hallucination detection & mitigation · RAG evaluation (RAGAS, DeepEval, TruLens) · Citation grounding
-
-**Statistics & Experimental Design**  
-Hypothesis Testing · A/B & Multivariate Testing  
-Sampling Techniques · Distribution Theory · Power Analysis  
-Regression Diagnostics · ANOVA · Non-parametric Methods  
-
-**Data Processing & Visualization**  
-Pandas · Polars · NumPy  
-Data Visualization: Matplotlib · Seaborn · Plotly · PyGWalker  
-Business Intelligence: Power BI · Looker Studio (basics)
-
-**Deep Learning & Frameworks**  
-TensorFlow / Keras · PyTorch (preferred for research & recent work)  
-Hugging Face Transformers & ecosystem
-
-**Backend, APIs & Deployment**  
-FastAPI (high-performance REST & async APIs)  
-Authentication & Security: JWT · OAuth 2.0  
-Python web services · API documentation (Swagger / Redoc)  
-Containerization: Docker basics  
-Streamlit / Gradio for rapid ML / LLM demos
-
-**Currently Exploring / Hands-on (2026 direction)**  
-Agentic AI workflows · Multimodal models · Model compression & quantization  
-Inference optimization (vLLM, TensorRT-LLM, ONNX Runtime)  
-MLOps lite (MLflow tracking, BentoML serving, GitHub Actions CI/CD)
+> 🔒 Work at TCS and IFSCA is confidential. I'm happy to discuss design decisions and trade-offs at a high level in a conversation.
 
 ---
 
-## 🔥 Highlight Projects
+## 🔥 Featured Projects
 
-| Project | Core Tech | Measurable Impact | Links |
-|-------|------------|---------------------|-------|
-| **Datacynte** – Natural Language Data Analytics | Gemini • LangChain • Streamlit • Astra DB | 60% faster insight delivery • dynamic Python code gen from NL • production-tuned for finance/healthcare | [Repo](https://github.com/Utkarshmishra2k2/Datacynte-AI_Powered_Data_Analytics_Platform) |
-| **Focus on Vision** – Eye Health Risk Classifier | TensorFlow • Logistic Regression → NN • Power BI | 86.9% accuracy on 1,400+ samples • actionable public health model | [Repo](https://github.com/Utkarshmishra2k2/Focus-on-Vision) |
-| **Uber ETA Predictor** | TensorFlow • Geospatial features • Streamlit | ~25% reduction in ETA error • real-time demo deployment | [Repo](https://github.com/Utkarshmishra2k2/Uber-Estimated-Time-of-Arrival-ETA-Prediction) |
-| **Airline Insights** – Factor Analysis + PCA | Python • R • Scikit-learn | 30% improved interpretability of satisfaction drivers | [Repo](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data) |
-| **Sleep Disorder Patterns** | Pandas • Matplotlib • Stats Modeling | Statistically grounded risk visualizations & insights | [Repo](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization) |
+| Project | What it does | Stack | Highlights |
+|---|---|---|---|
+| **[VidIntel](https://github.com/Utkarshmishra2k2/VidIntel)** | Ask questions about any YouTube video or playlist and get answers grounded in the transcript, with clickable timestamps | Python · Ollama · RAG | Runs fully local: no API key, no data leaves your machine |
+| **[DeskFlow](https://github.com/Utkarshmishra2k2/DeskFlow)** | Self-hosted workplace portal for meeting-room booking, equipment tracking and IT ticketing | FastAPI · SQLite · Python | Conflict-free, concurrency-safe booking |
+| **[Transformer from Scratch](https://github.com/Utkarshmishra2k2/attention-is-all-you-need-build-the-transformer-from-scratch)** | Full encoder-decoder Transformer built end to end: tokenization, sinusoidal positional encodings, multi-head attention, label smoothing, Noam scheduling | PyTorch | Original *Attention Is All You Need* architecture reimplemented from first principles |
+| **[Datacynte](https://github.com/Utkarshmishra2k2/Datacynte-AI_Powered_Data_Analytics_Platform)** | Natural-language data analysis: an LLM generates and runs Python for statistics, plots and models | Gemini · Streamlit · Astra DB | Stores queries, code and results for traceable, reusable insights |
+| **[Random Forest from Scratch](https://github.com/Utkarshmishra2k2/random-forest-from-scratch)** | Random forest classifier built from impurity math through bagged voting | Python | No ML libraries; every step implemented by hand |
+| **[Focus on Vision](https://github.com/Utkarshmishra2k2/Focus_on_Vision-A_Statistical_Study_of_Eye)** | Statistical study of digital habits, lifestyle and vision-health risk, with a deployed risk predictor | TensorFlow · scikit-learn · Streamlit · Power BI | Survey of 1,400+ participants · neural network with 86.9% accuracy · interpretable logistic-regression baseline |
 
-More experiments (RAG, agents, fine-tuning) coming soon — stay tuned.
+<details>
+<summary><b>More projects</b> (data science and machine learning)</summary>
 
----
+<br>
 
-## 💼 Experience
+- **[Uber ETA Prediction](https://github.com/Utkarshmishra2k2/Uber-Estimated-Time-of-Arrival-ETA-Prediction)**: Streamlit app with a TensorFlow model that predicts ride arrival time
+- **[Spam Email Classification](https://github.com/Utkarshmishra2k2/Spam-Email-Classification-Comparison-of-Model-Performance-with-and-without-Data-Resampling)**: model comparison with and without data resampling
+- **[LoanLens](https://github.com/Utkarshmishra2k2/LoanLens-HMDA-Loan-Data-Analysis-and-Modeling)**: HMDA loan data analysis and modeling
+- **[Car Price Prediction](https://github.com/Utkarshmishra2k2/AutoEstimator--Predict_Your_Car-s_Worth)**: TensorFlow MLP web app for used-car valuation
+- **[Factor Analysis & PCA on Airline Data](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data)**: dimensionality reduction to uncover satisfaction drivers
+- **[Railway Operations Dashboard](https://github.com/Utkarshmishra2k2/Railway-Operations-Performance-Dashboard)**: Power BI dashboard on delays, revenue and customers
+- **[Bank Customer Churn Analysis](https://github.com/Utkarshmishra2k2/Bank-Customer-Churn-Analysis)**
+- **[Sleep Disorder Data Visualization](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization)**
+- **[Furniture Sales Prediction](https://github.com/Utkarshmishra2k2/Furniture-Sales-Prediction)**: time-series forecasting
+- **[Covid Sentiment Analysis](https://github.com/Utkarshmishra2k2/Covid-Sentiment-Analysis)**: NLP on COVID-19 tweets
 
-**AI / LLM Engineer**  
-IFSCA – Government of India  
-Jul 2025 – Present
-
-- Architected **IFSCA IntelliChat** — production RAG system (hybrid retrieval + cross-encoder reranking + citation enforcement + confidence scoring)
-- Built **IntelliDesk** — agentic AI service desk (intent classification, deterministic flows, RBAC + JWT auth)
-- Designed **DeskFlow** — fault-tolerant workflow platform with real-time WebSocket notifications
-- Engineered rate-limited **Mass Communication Engine** (OAuth 2.0 + observability)
-- Led agentic AI PoCs + trained domain-specific **Small Language Models**
-
-**Data Analyst**  
-Dynamite Technology  
-Mar 2024 – Apr 2024
-
-- Built content-based recommender (TF-IDF + cosine) → **0.78 precision@10**
-- Optimized Pandas pipelines → **45% faster** preprocessing
+</details>
 
 ---
 
-## 📜 Certifications & Learning
+## 🧰 Tech Stack
 
-- Generative AI with Large Language Models – DeepLearning.AI (Coursera)
-- Python & SQL – HackerRank
-- Data Analytics (R & Excel) – Ramniranjan Jhunjhunwala College
+**Generative AI & LLMs**
+`RAG` · `Agentic AI` · `AI Agents` · `LangGraph` · `LangChain` · `Prompt Engineering` · `LLM Guardrails` · `Hallucination Mitigation` · `Citation Grounding` · `Ollama` · `Hugging Face Transformers`
 
-Actively studying: **distributed fine-tuning (DeepSpeed, Ray)**, **long-context models**, **AI evaluation frameworks**, **ethical alignment**
+**Retrieval & Vector Search**
+`FAISS` · `Vector Databases` · `Embeddings` · `Hybrid Retrieval` · `Cross-Encoder Reranking`
 
-Feel free to reach out — excited to connect!
+**Machine Learning & Statistics**
+`scikit-learn` · `PyTorch` · `TensorFlow / Keras` · `Anomaly Detection (Isolation Forest, LOF, DBSCAN)` · `Regression & Classification` · `Clustering` · `Feature Engineering` · `Hypothesis Testing` · `Bayesian Modeling` · `A/B Testing` · `Time Series Analysis`
+
+**Backend & APIs**
+`FastAPI` · `Pydantic` · `REST APIs` · `Async Python` · `JWT / OAuth` · `SQL` · `SQLite` · `Docker (basics)` · `Git` · `Linux`
+
+**Data & Visualization**
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Plotly` · `Streamlit` · `Power BI`
+
+**Languages**
+`Python` · `SQL` · `R`
+
+---
+
+## 🎯 Currently Building & Learning
+
+- 🔧 **LLM evaluation:** faithfulness and retrieval-quality metrics for RAG, with statistically sound comparisons (confidence intervals, not point estimates)
+- 🔌 **Model Context Protocol (MCP):** exposing tools to agents through standard servers
+- 🤖 **Multi-agent patterns:** orchestration, memory and human-in-the-loop control in LangGraph
+- 🛡️ **LLM security & observability:** prompt-injection defense, tracing and monitoring for agent systems
+- 📦 **Deployment:** containerization and CI/CD for ML services
+
+---
+
+## 📜 Publication
+
+**Synthetic Media Detection Using Benford's Law**
+*[International Journal of Advance and Innovative Research, Vol. 13,Issue 1,(ISSN: 2394-7780)]* ·
+A training-free, interpretable method that applies Benford's Law to DCT frequency-domain coefficients to flag synthetic images and video, offered as a lightweight, explainable layer for hybrid deepfake-forensics pipelines.
+
+---
+
+## 🏅 Certifications
+
+- Claude 101: Anthropic (2026)
+- Generative AI with Large Language Models: DeepLearning.AI
+- Python (5⭐): HackerRank
+- Machine Learning for Beginners: Analytics Vidhya · Data Science with Python: Simplilearn
+
+---
+
+## 📫 Open To
+
+**AI Engineer · Generative AI Engineer · LLM Engineer · Agentic AI Engineer · Machine Learning Engineer**
+Especially roles involving **RAG, AI agents, LLM evaluation and guardrails, and trustworthy AI in regulated domains**.
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/utkarsh-mishra-1aa340227).
+
+<div align="center">
+
+⭐ If something here is useful to you, a star on the repo is always appreciated.
+
+</div>

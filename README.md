@@ -19,7 +19,7 @@ I'm an **AI Engineer** focused on **production-grade LLM applications**: retriev
 
 - 🏢 **Now:** AI Engineer at **Tata Consultancy Services** (Jun 2026 – present). Building agentic AI and anomaly-detection solutions for enterprise engineering platforms (LangGraph, RAG, FastAPI, scikit-learn).
 - 🏛️ **Before:** AI / LLM Intern at **IFSCA, Government of India** (Jul 2025 – Jan 2026). Built regulatory-intelligence RAG and an agentic enterprise service desk in a secure, offline-first environment.
-- 📄 **Research:** Published *Synthetic Media Detection Using Benford's Law*, a training-free, interpretable approach to deepfake forensics ([read the paper](YOUR_PUBLICATION_LINK)).
+- 📄 **Research:** Published *Synthetic Media Detection Using Benford's Law*, a training-free, interpretable approach to deepfake forensics ([read the paper](https://iaraedu.com/pdf/ijair-volume-13-issue-1-v-january-march-2026.pdf)).
 - 🎓 **Education:** M.Sc. Statistics (CGPA 8.90) and B.Sc. Statistics (CGPA 9.40), University of Mumbai.
 
 > 🔒 Work at TCS and IFSCA is confidential. I'm happy to discuss design decisions and trade-offs at a high level in a conversation.
@@ -48,8 +48,6 @@ I'm an **AI Engineer** focused on **production-grade LLM applications**: retriev
 - **[Car Price Prediction](https://github.com/Utkarshmishra2k2/AutoEstimator--Predict_Your_Car-s_Worth)**: TensorFlow MLP web app for used-car valuation
 - **[Factor Analysis & PCA on Airline Data](https://github.com/Utkarshmishra2k2/Factor-Analysis-PCA-on-Airline-Data)**: dimensionality reduction to uncover satisfaction drivers
 - **[Railway Operations Dashboard](https://github.com/Utkarshmishra2k2/Railway-Operations-Performance-Dashboard)**: Power BI dashboard on delays, revenue and customers
-- **[Bank Customer Churn Analysis](https://github.com/Utkarshmishra2k2/Bank-Customer-Churn-Analysis)**
-- **[Sleep Disorder Data Visualization](https://github.com/Utkarshmishra2k2/Sleeping-Disorder-Data-Visualization)**
 - **[Furniture Sales Prediction](https://github.com/Utkarshmishra2k2/Furniture-Sales-Prediction)**: time-series forecasting
 - **[Covid Sentiment Analysis](https://github.com/Utkarshmishra2k2/Covid-Sentiment-Analysis)**: NLP on COVID-19 tweets
 
